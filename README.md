@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ms-Chakraborty
-- 👀 I’m interested in C programming
+- 👀 I’m interested in C programming, Design and web development
 - 🌱 I’m currently learning Basic Data Structures and Algorithm
 - 💞️ I’m looking to collaborate on cloud deployment
   
